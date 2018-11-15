@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/DXApplication1/Form1.cs) (VB: [Form1.vb](./VB/DXApplication1/Form1.vb))
+* [XtraUserControl1.cs](./CS/DXApplication1/XtraUserControl1.cs) (VB: [XtraUserControl1.vb](./VB/DXApplication1/XtraUserControl1.vb))
+<!-- default file list end -->
 # How to override (handle) the customization form button click starting with the 15.1 version
 
 
