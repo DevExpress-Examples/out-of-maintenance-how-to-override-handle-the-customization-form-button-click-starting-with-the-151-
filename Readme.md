@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsFormsApplication6/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication6/Form1.vb))
+* [MyCustomizationForm.cs](./CS/WindowsFormsApplication6/MyCustomizationForm.cs) (VB: [MyCustomizationForm.vb](./VB/WindowsFormsApplication6/MyCustomizationForm.vb))
+<!-- default file list end -->
 # How to override (handle) the customization form button click starting with the 15.1 version
 
 
